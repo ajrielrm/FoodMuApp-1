@@ -4,8 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/ajrie/AndroidStudioProjects/FoodMuApp-1/app/src/main/res/layout/activity_google_login.xml" value="0.22826086956521738" />
-        <entry key="..\:/Users/ajrie/AndroidStudioProjects/FoodMuApp-1/app/src/main/res/layout/activity_history.xml" value="0.264" />
+        <entry key="..\:/Users/ajrie/AndroidStudioProjects/FoodMuApp-1/app/src/main/res/layout/activity_history.xml" value="1.0" />
         <entry key="..\:/Users/ajrie/AndroidStudioProjects/FoodMuApp-1/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ajrie/AndroidStudioProjects/FoodMuApp-1/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/ajrie/AndroidStudioProjects/FoodMuApp-1/app/src/main/res/layout/activity_register.xml" value="0.22826086956521738" />
       </map>
     </option>
